@@ -37,7 +37,7 @@ export default function Reveal() {
         <span className="win-ico big"><PartyPopper size={34} /></span>
         <h1>Félicitations !</h1>
         <p className="r-lead">Tu viens de gagner…</p>
-        <div className="r-prize">toute notre considération 😂</div>
+        <div className="r-prize">toute notre considération 😂 "Grizzly te remercie "</div>
         <p>VolaBe n’a jamais versé un seul ariary. Les {fmt(user.balance)} affichés n’existaient que dans ton navigateur : c’était un prank.</p>
         <div className="r-stats">
           <div><b>{missions}</b><span>missions réussies</span></div>
